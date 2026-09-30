@@ -1,9 +1,9 @@
 # Tarefas – Trabalho Prático (sem PR)
 
 Distribuição sugerida:
-- **Aluno B**: incremento de 2 em 2 + renomear função
-- **Aluno C**: tema escuro ajustável (incluindo cor primária)
-- **Aluno A**: coordenação, merges, release e hotfix
+- **Aluno Rafaele**: incremento de 2 em 2 + renomear função
+- **Aluno Allison**: tema escuro ajustável (incluindo cor primária)
+- **Aluno Sérgio**: coordenação, merges, release e hotfix
 
 ## Lista de tarefas
 1. **Incrementar de 2 em 2** (mudar a lógica do clique no botão "+").
