@@ -18,4 +18,4 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno Sérgio Gurgel, Aluna Maria Rafaele, Aluno Allison de Oliveira.
