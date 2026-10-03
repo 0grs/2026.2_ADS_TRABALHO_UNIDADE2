@@ -1,11 +1,10 @@
 :root {
-  --primary: #3b82f6; /* azul padrão base */
+  --primary: #fe0000;
   --bg: #f8fafc;
   --text: #0f172a;
   --card: #ffffff;
   --border: #e5e7eb;
 }
-
 * { box-sizing: border-box; }
 body {
   margin: 0;
