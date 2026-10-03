@@ -37,7 +37,7 @@ elToggleTheme.addEventListener("click", () => {
 
   elTitle.textContent = state.dark
     ? "Mini App – Modo Escuro"
-    : "Mini App – Modo Escuro";
+    : "Mini App – GitFlow";
 
   elMessage.textContent = state.dark
     ? "Modo Escuro ativado!"
