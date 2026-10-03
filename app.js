@@ -14,20 +14,12 @@ let state = { count: 0, dark: false };
 
 elIncrement.addEventListener("click", () => {
   state.count += 2;
-<<<<<<< HEAD
   updateCount(state.count);
-=======
-  setCount(state.count);
->>>>>>> origin/feature-tema-ajustavel
 });
 
 elDecrement.addEventListener("click", () => {
   state.count -= 2;
-<<<<<<< HEAD
   updateCount(state.count);
-=======
-  setCount(state.count);
->>>>>>> origin/feature-tema-ajustavel
 });
 
 elToggleTheme.addEventListener("click", () => {
