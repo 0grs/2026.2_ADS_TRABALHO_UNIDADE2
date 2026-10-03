@@ -35,6 +35,11 @@ elToggleTheme.addEventListener("click", () => {
     state.dark ? "#e2e8f0" : "#0f172a"
   );
 
+  document.documentElement.style.setProperty(
+    "--card",
+    state.dark ? "#1e293b" : "#ffffff"
+  );
+
   elTitle.textContent = state.dark
     ? "Mini App – Modo Escuro"
     : "Mini App – GitFlow";
