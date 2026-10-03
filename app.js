@@ -32,7 +32,7 @@ elToggleTheme.addEventListener("click", () => {
 
   document.documentElement.style.setProperty(
     "--text",
-    state.dark ? "#e2e8f0" : "#000000"
+    state.dark ? "#e2e8f0" : "#0f172a"
   );
 
   elTitle.textContent = state.dark
